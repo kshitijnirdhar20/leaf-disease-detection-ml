@@ -32,10 +32,3 @@ This project implements a **Convolutional Neural Network (CNN)** to classify pla
   - `Tomato - Healthy`, etc.
     
 ---
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/leaf-disease-detection-ml.git
-cd leaf-disease-detection-ml
